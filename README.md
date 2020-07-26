@@ -2,7 +2,7 @@
 C code for tester
 
 
-Foure cases:
+Four cases:
 
 1. F0A
 2. MLB_L
